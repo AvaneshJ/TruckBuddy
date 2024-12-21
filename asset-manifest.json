@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TruckBuddy/static/css/main.ce40bc92.css",
+    "main.js": "/TruckBuddy/static/js/main.716bcd96.js",
+    "static/js/488.1bc42789.chunk.js": "/TruckBuddy/static/js/488.1bc42789.chunk.js",
+    "static/media/Logo.png": "/TruckBuddy/static/media/Logo.90abdc6c53468ecac0c8.png",
+    "static/media/service-2.png": "/TruckBuddy/static/media/service-2.5e3dcd20b5ccb9be6822.png",
+    "static/media/contact.jpg": "/TruckBuddy/static/media/contact.b59d895dba632c7abe47.jpg",
+    "static/media/service-1.jpg": "/TruckBuddy/static/media/service-1.4c1fc203b71ef52daa9f.jpg",
+    "static/media/banner.jpg": "/TruckBuddy/static/media/banner.7fd120269349cc11b433.jpg",
+    "static/media/experience.jpg": "/TruckBuddy/static/media/experience.51d6253e96d1373354a0.jpg",
+    "static/media/client-1.jpg": "/TruckBuddy/static/media/client-1.63e6b4db2060401b9aa9.jpg",
+    "static/media/header.jpg": "/TruckBuddy/static/media/header.f671b4902112555a92f5.jpg",
+    "static/media/service-3.jpg": "/TruckBuddy/static/media/service-3.9592335c181683bf9fed.jpg",
+    "static/media/customisation.jpg": "/TruckBuddy/static/media/customisation.56fcdc5d204b4e70c2ff.jpg",
+    "static/media/logo.svg": "/TruckBuddy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TruckBuddy/index.html",
+    "main.ce40bc92.css.map": "/TruckBuddy/static/css/main.ce40bc92.css.map",
+    "main.716bcd96.js.map": "/TruckBuddy/static/js/main.716bcd96.js.map",
+    "488.1bc42789.chunk.js.map": "/TruckBuddy/static/js/488.1bc42789.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce40bc92.css",
+    "static/js/main.716bcd96.js"
+  ]
+}
